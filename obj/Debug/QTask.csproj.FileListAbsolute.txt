@@ -4,10 +4,11 @@ F:\Data\Programms\Projects\QTask\QTask\bin\Debug\QTask.pdb
 F:\Data\Programms\Projects\QTask\QTask\bin\Debug\XanderUI.dll
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.csproj.AssemblyReference.cache
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.csproj.SuggestedBindingRedirects.cache
-F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.Form1.resources
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.Properties.Resources.resources
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.csproj.GenerateResource.cache
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.csproj.CoreCompileInputs.cache
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.csproj.CopyComplete
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.exe
 F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.pdb
+F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.AuthForm.resources
+F:\Data\Programms\Projects\QTask\QTask\obj\Debug\QTask.MainForm.resources

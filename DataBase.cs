@@ -12,7 +12,7 @@ namespace QTask
         public SqlConnection connection;
         public DataBase()
         {
-            string connectionString = "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;";
+            string connectionString = "Server=DESKTOP - KK511UU;Database=QTask;Integrated Security = True;";
             connection = new SqlConnection(connectionString);
         }
         public void Open()
